@@ -23,6 +23,8 @@ nav{
 
 .grande{
     margin-top: 120px;
+    flex-wrap: wrap;
+    align-items: flex-end;
 }
 
 .left{
@@ -59,10 +61,6 @@ nav{
 .right img{
     width: 20px;
     margin: 0px 5px;
-}
-
-main{
-    height: 3000px;
 }
 
 .foto{
@@ -117,6 +115,7 @@ main{
 
 .articolo{
     width: 30%;
+    margin: 70px 0px;
 }
 
 .foto img{
