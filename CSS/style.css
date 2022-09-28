@@ -58,16 +58,39 @@ nav{
     align-items: center;
 }
 
-.right img{
+.carrello{
     width: 20px;
     margin: 0px 5px;
 }
 
 .foto{
-    background-image: url(../img/1.webp);
     background-size: contain;
     height: 400px;
     position: relative;
+}
+
+.prima{
+    background-image: url(../img/1.webp);
+}
+
+.seconda{
+    background-image: url(../img/2.webp);
+}
+
+.terza{
+    background-image: url(../img/3.webp);
+}
+
+.quarta{
+    background-image: url(../img/4.webp);
+}
+
+.quinta{
+    background-image: url(../img/5.webp);
+}
+
+.sesta{
+    background-image: url(../img/6.webp);
 }
 
 .targhe{
@@ -115,9 +138,52 @@ nav{
 
 .articolo{
     width: 30%;
-    margin: 70px 0px;
+    margin: 40px 0px;
 }
 
 .foto img{
     width: 100%;
+}
+
+footer{
+    background-color: black;
+    padding: 20px;
+}
+
+.piccolo{
+    position: relative;
+    height: 80px;
+}
+
+footer h4{
+    color: white;
+    font-family: "Roboto";
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 0;
+}
+
+footer span{
+    color: white;
+    font-family: "Roboto";
+}
+
+.informazioni{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+footer a{
+    color: white;
+    font-family: "Roboto";
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.link{
+    position: absolute;
+    right: 0;
+    top: 20px;
 }
