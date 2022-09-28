@@ -73,24 +73,48 @@ nav{
     background-image: url(../img/1.webp);
 }
 
+.prima:hover{
+    background-image: url(../img/1b.webp);
+}
+
 .seconda{
     background-image: url(../img/2.webp);
+}
+
+.seconda:hover{
+    background-image: url(../img/2b.webp);
 }
 
 .terza{
     background-image: url(../img/3.webp);
 }
 
+.terza:hover{
+    background-image: url(../img/3b.webp);
+}
+
 .quarta{
     background-image: url(../img/4.webp);
+}
+
+.quarta:hover{
+    background-image: url(../img/4b.webp);
 }
 
 .quinta{
     background-image: url(../img/5.webp);
 }
 
+.quinta:hover{
+    background-image: url(../img/5b.webp);
+}
+
 .sesta{
     background-image: url(../img/6.webp);
+}
+
+.sesta:hover{
+    background-image: url(../img/6b.webp);
 }
 
 .targhe{
